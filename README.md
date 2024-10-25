@@ -95,7 +95,7 @@ Use these files to complete the implementation:
 
 <br/>
 
-**The following instructions are required for the tests to pass**
+
 
 - For the `format` function, pass the format string `dd MMMM yyyy, EEEE` as the second argument
 - The star button in each appointment should have the data-testid as **star**
