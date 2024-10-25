@@ -1,4 +1,4 @@
-<h1> `Appoints Web-app` </h1>
+<h1> Appoints Web-app </h1>
 
 <br/>
 <div style="text-align: center;">
